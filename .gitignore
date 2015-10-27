@@ -1,0 +1,14 @@
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+django-admin-script.pyc
+django-admin.exe
+django-admin.exe.manifest
+easy_install-3.5.exe
+easy_install.exe
+pip.exe
+pip3.5.exe
+pip3.exe
